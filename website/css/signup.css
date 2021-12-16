@@ -1,0 +1,100 @@
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url('img/Drum%20Kit1.jpg');
+    background-size: cover;
+    font-family: italic;
+    background-position: center;
+}
+.Abhi
+{
+    width: 400px;
+    height: 400px;
+    color: #000;
+    top: 55%;
+    left: 50%;
+    padding: 60px 30px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    box-shadow: 0px 30px 80px  #000;
+    background-color: rgba(255,255,255,0.2);
+
+    
+    
+}
+h1
+{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    font-size: 22spx;
+    color: blue;
+    text-align: center;
+    margin-bottom: 10%;
+    margin-top: -6%;
+    font-family: courgette;
+}
+
+
+.Abhi input
+{
+    width: 100%;
+    margin-bottom: 20px;
+    height: 35px;
+    outline: None;
+    border-radius: 5px;
+    border: None;
+    padding-left: 10px;
+    font-weight: 600;
+    border: 0.1rem solid  blue;
+
+}
+
+.Abhi input[type=text]
+.Abhi input[type=password]
+
+{
+    border: none;
+    border-bottom: 1px solid #3335FF;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    opacity: 1;
+    color: rgb(12, 128, 173);
+    
+
+}
+.Abhi input[type=submit]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background-color: blue;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+.Abhi input[type=submit] :hover
+{
+    cursor: progress;
+}
+
+.Abhi input[type=reset]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background-color: blue;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+.Abhi input[type=reset] :hover
+{
+    cursor: progress;
+}
+
